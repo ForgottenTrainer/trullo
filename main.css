@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://images5.alphacoders.com/862/thumb-1920-862186.png);
+    background-attachment: fixed;
+    background-size: cover;
+    backdrop-filter: blur(12px);
+}
+
+.contenedor{
+    width: 90%;
+	margin: auto;
+    padding-top: 30px;
+}
+
